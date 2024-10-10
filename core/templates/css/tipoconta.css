@@ -1,0 +1,19 @@
+*{
+    font-family: "Roboto Slab", serif;
+
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #323272;
+    background-image: url(/img/mano.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 5vw;
+}
+img{
+    width: max(100px, 20vw);
+}
